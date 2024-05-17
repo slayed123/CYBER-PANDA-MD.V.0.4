@@ -21,8 +21,8 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94761805120", "+94761805120"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94761805120", "+94761805120"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.Owner = ["+94761805120"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+94761805120"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
 global.ownertag = ["+94761805120"];
 global.OwnerName = "NIRMAL";
 global.BotName = "NIRMAL";
@@ -41,11 +41,11 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "NEGOMBO, Sri Lankan";
+global.location = "NEGOMBO, Sri Lanka";
 global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
-global.websitex = "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4";
+global.websitex = "https://github.com/slayed123/CYBER-PANDA-MD.V.0.4";
 global.lolhuman = "Nirmal";
 
 
@@ -88,7 +88,7 @@ global.mess = {
   botonly: 'Only the *Bot itself* can use this command!',
   waiting: 'Just Wait...',
   nolink: 'Please provide me *link*, you idiot!',
-  error: 'An error occurd!',
+  error: 'An error occurd, please try again later!',
   banned: 'You are *Banned* fron using commands!',
   bangc: 'This Group is *Banned* from using Commands!',
   nonsfw: 'Dont be a pervert you stupid Baka! This is not a NSFW enabled group!'
