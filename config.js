@@ -27,7 +27,7 @@ global.ownertag = ["+94761805120"];
 global.OwnerName = "NIRMAL";
 global.BotName = "NIRMAL";
 global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
-global.author = "SACITH";                               //Do not change.
+global.author = "NIRMAL";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
@@ -91,7 +91,7 @@ global.mess = {
   error: 'An error occurd!',
   banned: 'You are *Banned* fron using commands!',
   bangc: 'This Group is *Banned* from using Commands!',
-  nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+  nonsfw: 'Dont be a pervert you stupid Baka! This is not a NSFW enabled group!'
 
 }
 
